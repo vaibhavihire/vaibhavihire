@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Vaibhavi Hire's Banner" width="100%" />
+  <img src="assets/qa-animation.svg" alt="QA Automation System Animation" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Vaibhavi Hire! 👋</h1>
